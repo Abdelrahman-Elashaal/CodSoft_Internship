@@ -1,5 +1,5 @@
-<img src='./Sales Prediction/logo_Codsoft.jpg' align='left' width="150" height="100" /> 
-<h1> The Sparks Foundation: Data Science And Business Analytics Tasks </h1>
+<img src='./Sales Prediction/logo_Codsoft.jpg' align='left' width="150" height="80" /> 
+<h1> CodSoft: Data Science Internship Tasks </h1>
 During this internship, I implemented three projects:
   <br><b> 1: Sales Prediction</b>
   <br>&emsp; <b>- Traget: </b>
